@@ -95,9 +95,8 @@
 📍 **Brest, France** — véhiculé
 
 **Zone de recherche acceptable :**
-- 🥇 Brest (29) — proximité immédiate
-- 🥈 Rennes (35) — 2ème année BTS
-- 🥉 Étel (56) & Guignen (35) — mentionnés comme acceptables
+- 🥇 Brest (29)
+- 🥈 Rennes (35)
 
 ---
 
