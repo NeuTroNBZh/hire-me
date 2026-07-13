@@ -16,7 +16,7 @@
 
 ## 🎯 Objectif
 
-**Recherche d'un stage en développement web** du **18 mai au 19 juin 2026**
+**Recherche d'un stage en développement web** pour ma **2e année de BTS SIO SLAM (2026-2027)**
 
 > Étudiant en BTS SIO SLAM, je combine rigueur intellectuelle d'historien et créativité technique pour concevoir des applications modernes et performantes.
 
@@ -50,6 +50,7 @@
 
 | Période | Poste | Entreprise | Description |
 |---------|-------|------------|-------------|
+| **Mai 2026 - Aujourd'hui** | Développeur web (stage puis job d'été) | Shop Application | Développement web sur solution e-commerce |
 | **2025 - Aujourd'hui** | Conseiller de vente | Castorama Brest | Relation client, conseil technique |
 | **Mars-Juillet 2025** | Chargé de Communication & Support IT | Office des Retraités de Brest | Communication digitale, support informatique |
 | **Juin 2024** | Stage développement | OMNIPAC | Développement logiciel gestion caméras (15 jours) |
@@ -102,7 +103,7 @@
 
 ## 💡 Ce que je recherche
 
-- **Stage de 5 semaines** en développement web/software
+- **Stage de 2e année de BTS** en développement web/software
 - **Environnement** : Startup, agence web, ESN, ou service IT d'entreprise
 - **Technologies** : React, Node.js, PHP, ou découverte de nouveaux frameworks
 - **Mission** : Développement front-end et/ou back-end, participation à des projets concrets
