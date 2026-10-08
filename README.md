@@ -8,7 +8,6 @@
 [![Portfolio](https://img.shields.io/badge/🔗_Portfolio-louis--cercle.site-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://louis-cercle.site)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-cerclé-cheminel/)
 [![Email](https://img.shields.io/badge/📧_louis.cercle35@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louis.cercle35@gmail.com)
-[![Téléphone](https://img.shields.io/badge/📱_07.83.44.02.74-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+33783440274)
 
 </div>
 
@@ -117,7 +116,6 @@
 **Disponible pour échanger sur vos opportunités de stage !**
 
 📧 **louis.cercle35@gmail.com**  
-📱 **07.83.44.02.74**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/louis-cerclé-cheminel/)**  
 🌐 **[Portfolio](https://louis-cercle.site)**
 
